@@ -1,5 +1,5 @@
 # Would You Rather Project
-In the "Would You Rather?" Project, is a web app built using React, React-Router and Redux. This web app is a game that lets a user to answer questions, see which questions they haven’t answered, see how other people have voted, post questions, and see the ranking of users on the leaderboard.
+"Would You Rather?" is a web app built using React, React-Router and Redux. This web app is a game that lets a user to answer questions, see which questions they haven’t answered, see how other people have voted, post questions, and see the ranking of users on the leaderboard.
 
 ## Architecture
 The `_DATA.js` file contains the fake database and methods which are used by the app to access data.
@@ -52,7 +52,6 @@ The presentation logic will talk to the database via the following 4 main method
 * `_getQuestions()`
 * `_saveQuestion(question)`
 * `_saveQuestionAnswer(object)`
-
 
 
 ## Getting Started with Would-you-rather
